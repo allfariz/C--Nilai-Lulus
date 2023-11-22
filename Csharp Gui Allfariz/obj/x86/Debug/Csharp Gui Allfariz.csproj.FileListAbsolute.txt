@@ -1,0 +1,9 @@
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\bin\Debug\Csharp Gui Allfariz.exe
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\bin\Debug\Csharp Gui Allfariz.pdb
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp_Gui_Allfariz.Form1.resources
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp_Gui_Allfariz.Properties.Resources.resources
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp Gui Allfariz.csproj.GenerateResource.Cache
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp Gui Allfariz.exe
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp Gui Allfariz.pdb
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp_Gui_Allfariz.Form2.resources
+D:\allfariz\Csharp Gui Allfariz\Csharp Gui Allfariz\obj\x86\Debug\Csharp Gui Allfariz.csprojResolveAssemblyReference.cache
